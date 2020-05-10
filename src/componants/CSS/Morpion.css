@@ -17,7 +17,7 @@ button {
     width: 250px;
     box-shadow: none;
     border: none;
-    background-color: #14bdac;
+    background-color: transparent;
 }
 body {
     box-shadow: none;
@@ -53,30 +53,30 @@ button:focus {
     color: #fff;
 }
 .top-left {
-    border-right: 6px solid #11af9f;
-    border-bottom: 6px solid #11af9f;
+    border-right: 6px solid #343d46;
+    border-bottom: 6px solid #343d46;
 }
 .top {
-    border-right: 6px solid #11af9f;
-    border-bottom: 6px solid #11af9f;
+    border-right: 6px solid #343d46;
+    border-bottom: 6px solid #343d46;
 }
 .top-right {
-    border-bottom: 6px solid #11af9f;
+    border-bottom: 6px solid #343d46;
 }
 .middle-left {
-    border-bottom: 6px solid #11af9f;
-    border-right: 6px solid #11af9f;
+    border-bottom: 6px solid #343d46;
+    border-right: 6px solid #343d46;
 }
 .middle-right {
-    border-bottom: 6px solid #11af9f;
+    border-bottom: 6px solid #343d46;
 }
 .middle {
-    border-right: 6px solid #11af9f;
-    border-bottom: 6px solid #11af9f;
+    border-right: 6px solid #343d46;
+    border-bottom: 6px solid #343d46;
 }
 .bottom-left {
-    border-right: 6px solid #11af9f;
+    border-right: 6px solid #343d46;
 }
 .bottom {
-    border-right: 6px solid #11af9f;
+    border-right: 6px solid #343d46;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import Tableau from './tab.js';
-
+import './CSS/Morpion.css';
 
 class Game extends React.Component {
     constructor(props) {
